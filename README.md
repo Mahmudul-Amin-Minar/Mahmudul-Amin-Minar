@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mahmudul Amin Minar</h1>
 <h3 align="center">A passionate Python developer from Bangladesh</h3>
 
