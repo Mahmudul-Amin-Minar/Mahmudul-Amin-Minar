@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Amin Minar</h1>
-<h3 align="center">A passionate Python developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on my **Academic Project titled NER for Bengali Language**
+## Hi there 👋
+### Thanks for visiting my profile.
+---
 
 - 🌱 I’m currently learning **ReactJS, FastAPI, NodeJS**
 
@@ -15,7 +14,6 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-amin-minar-159b71137/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahmudul_minar/?hl=en)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amin_minar)
 [![image](https://img.shields.io/badge/Stackoverflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8299679/mahmudul-amin-minar?tab=profile)
   
@@ -50,14 +48,6 @@
 </p>
 
 ------
-
-[Mahmudul Amin Minar](https://github.com/Mahmudul-Amin-Minar)
-<br>
-<br>
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://github.com/Mahmudul-Amin-Minar)
-<br>
-
-Last Edited on: 12/03/2022
 
 <!--
 **Mahmudul-Amin-Minar/Mahmudul-Amin-Minar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
