@@ -2,9 +2,9 @@
 ### Thanks for visiting my profile.
 ---
 
-- 🌱 I’m currently learning **ReactJS, FastAPI, NodeJS**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Desing & Implementing Microservice**
 
-- 👯 Looking for a chance to work in a progressive firm as a highly motivated computer science student.
+- 👯 Working at OnnoRokom Pathshala as Junior Software Engineer.
 
 - 📫 How to reach me: **Mahmudul_amin@yahoo.com**
 
